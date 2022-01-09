@@ -1,0 +1,37 @@
+body {
+  font-family: 'Courier New', monospace;
+  color:black;
+  height: 100vh;
+  font-weight: bold;
+}
+textarea:focus, input:focus{
+  outline: none;
+}
+
+.chat-window{
+  background-color: #152238;
+}
+.input-block-level {
+  display: inline-block;
+  width: 99%;
+  min-height: 13px;
+  padding-left: 0px !important;
+  border-radius: 0px !important;
+  border: 0;
+}
+.input-tag
+{
+  display: inline-block;
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+#root
+{
+  height: 100vh;
+}
+.row
+{
+  margin-left: 0; margin-right: 0; 
+}

@@ -15,12 +15,12 @@
 
 ## Startup
 ### Frontend
-* ```cd terminal-chat/terminal-chat```
+* ```cd terminalchat-public/terminal-chat```
 * ```npm install```
 * ```npm start```
 
 ### Server
-* ```cd terminal-chat/server```
+* ```cd terminalchat-public/server```
 * ```npm install```
 * ```npm start```
 
